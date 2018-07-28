@@ -1,0 +1,10 @@
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\bin\Debug\ArduinoControl.exe.config
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\bin\Debug\ArduinoControl.exe
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\bin\Debug\ArduinoControl.pdb
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.csprojResolveAssemblyReference.cache
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.Form1.resources
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.Properties.Resources.resources
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.csproj.GenerateResource.Cache
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.csproj.CoreCompileInputs.cache
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.exe
+c:\users\muhammed\source\repos\ArduinoControl\ArduinoControl\obj\Debug\ArduinoControl.pdb
