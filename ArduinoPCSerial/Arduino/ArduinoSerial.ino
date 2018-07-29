@@ -24,11 +24,11 @@ void KapiAc()
 	//Kapı kapalı ise ...
 	if (KAPIDURUMU == 0)
 	{
-		//Kırmızı ledi söndürüyoruz
+		//Röleyi tetikliyoruz (Röle low ile tetikleniyor)
 		digitalWrite(2, LOW);
 		delay(500);
-		//Röleyi tetikliyoruz
-		//Roleye low verince tetikleniyor buraya dikkat
+		
+		//Kırmızı ledi söndürüyoruz
 		digitalWrite(3, LOW);
 		//Yeşil Ledi Yakıyoruz
 		digitalWrite(4, HIGH);
